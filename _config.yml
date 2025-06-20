@@ -21,8 +21,8 @@ description: "SpatialConnect 2025 explores cutting-edge research in Spatial Inte
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://kelvin23-utd.github.io'
-baseurl: '/bigspatial2025_bakcup.github.io'
+url: 'https://spatialconnect.github.io'
+baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
@@ -34,7 +34,7 @@ baseurl: '/bigspatial2025_bakcup.github.io'
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: '/bigspatial2025_bakcup.github.io/images/'
+urlimg: '/images/'
 
 
 # Logo size is 600x80 pixels
@@ -240,7 +240,7 @@ workshop:
   year: 2025
   name: "SpatialConnect"
   full_name: "Spatial Intelligence for Smart and Connected Communities"
-  date: "TBD, 2025"
+  date: "November 3, 2025"
   location: "TBD"
   submission_deadline: "TBD"
   notification_date: "TBD"
