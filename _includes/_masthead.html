@@ -24,7 +24,6 @@
 									align-items:center;
 									justify-content:center;
 									min-height:250px; 
-									font-size: clamp(0.5rem, 5vw, 2.5rem);
 									{% if page.header.background-color %}
 										background: {{ page.header.background-color }};
 									{% endif %} 
@@ -34,8 +33,19 @@
 									{% endif %}">
 	<div class="row">
 		<div class="small-12 columns text-center">
-			<div class="masthead-title">{{ page.header.title }}</div>
-			<div class="masthead-title">{{ page.header.title2 }}</div>
+			<div class="masthead-title" style="font-size: clamp(0.5rem, 5vw, 2.5rem);">{{ page.header.title }}</div>
+			<div class="masthead-title" style="font-size: clamp(0.5rem, 5vw, 2.5rem);">{{ page.header.title2 }}</div>
+
+			<!-- new logo block, only if header.logo is set -->
+			{% if page.header.logo %}
+			<div style="margin-top: 1rem;">
+				<img
+				src="{{ site.urlimg }}/{{ page.header.logo }}"
+				alt="{{ page.title | escape_once }} logo"
+				style="max-height: 4rem; width: auto;"
+				>
+			</div>
+			{% endif %}
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
 </div><!-- /#masthead -->

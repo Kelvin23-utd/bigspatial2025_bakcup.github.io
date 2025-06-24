@@ -34,4 +34,4 @@ header:
 ## Awards
 
 - **Best Paper Award**
-- **Best Paper Award Runner-Up**
+- **Best Community Impact Paper Award**
