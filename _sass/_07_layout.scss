@@ -70,10 +70,6 @@ body.video cite { color: #fff; }
     background-color: $primary-color;
 }
 #masthead-with-text {
-    display: flex;               /* enable flex layout */
-    align-items: center;         /* vertical centring */
-    justify-content: center;     /* horizontal centring */
-    min-height: 250px;           /* adjust to the height you need */
     text-align: center;
     font-size: rem-calc(25);
     font-family: $header-font-family;
