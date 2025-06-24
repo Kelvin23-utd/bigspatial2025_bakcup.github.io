@@ -33,10 +33,6 @@
 									{% endif %}">
 	<div class="row">
 		<div class="small-12 columns text-center">
-			<div class="masthead-title" style="font-size: clamp(0.5rem, 5vw, 2rem);">{{ page.header.title }}</div>
-			<div class="masthead-title" style="font-size: clamp(0.5rem, 5vw, 2rem);">{{ page.header.title2 }}</div>
-			<!-- Logo (only if set) -->
-			{% if page.header.logo %}
 			<div style="margin-top: 1rem;">
 			  <img
 				src="{{ site.urlimg }}/{{ page.header.logo }}"
@@ -44,6 +40,11 @@
 				style="max-height: 4rem; width: auto;"
 			  >
 			</div>
+			<div class="masthead-title" style="font-size: clamp(0.5rem, 5vw, 2rem);">{{ page.header.title }}</div>
+			<div class="masthead-title" style="font-size: clamp(0.5rem, 5vw, 2rem);">{{ page.header.title2 }}</div>
+			<!-- Logo (only if set) -->
+			{% if page.header.logo %}
+			
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
 </div><!-- /#masthead -->
