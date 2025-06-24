@@ -9,7 +9,7 @@ header:
 
 ## Workshop Overview
 
-SpatialConnect 2025 is dedicated to exploring cutting-edge research and applications in **Spatial Intelligence** aimed at shaping **Smart and Connected Communities (S&CC)**. The workshop focuses on use-inspired, community-engaged research that addresses real-world challenges identified facing local communities through collaboration with local governments, industry, and other key stakeholders. The goal is to advance computational geospatial science to deliver actionable solutions that strengthen public services and infrastructure. We invite submissions that showcase how research problems are identified through direct stakeholder engagement or data-driven analysis of specific regions. Successful papers will demonstrate how computational tools have been applied to improve decision-making, operational efficiency, or resource allocation. Contributions may include insights gained from fieldwork, coordination with public agencies, or partnerships with local institutions.
+SpatialConnect 2025 is dedicated to exploring cutting-edge research and applications in **Spatial Intelligence** aimed at shaping **Smart and Connected Communities (S&CC)**. The workshop focuses on use-inspired, community-engaged research that addresses real-world challenges identified facing local communities through collaboration with local governments, industry, and other key stakeholders. The goal is to advance computational geospatial science to deliver actionable solutions that strengthen public services and infrastructure. We invite submissions that showcase how research problems are identified through direct stakeholder engagement or data-driven analysis of specific regions. High-quality papers should demonstrate how computational tools have been applied to improve decision-making, operational efficiency, or resource allocation. Contributions may include insights gained from fieldwork, coordination with public agencies, or partnerships with local institutions.
 
 ## Workshop Format
 
@@ -17,7 +17,7 @@ SpatialConnect 2025 is dedicated to exploring cutting-edge research and applicat
 
 - **Keynote Talk**: One Invited Distinguished Speaker
 - **Technical Sessions**: Peer-reviewed Paper Presentations  
-- **Awards**: Best Paper Award and Best Paper Award Runner-Up
+- **Awards**: Best Paper Award and Best Community Impact Paper Award
 
 ## Call for Papers
 
