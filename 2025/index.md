@@ -3,7 +3,7 @@ layout: page
 title: "SpatialConnect 2025: First Workshop on Spatial Intelligence for Smart and Connected Communities"
 header:
    title: "SpatialConnect 2025: First Workshop on Spatial Intelligence for Smart and Connected Communities"
-   title2: "November 3, 2025 (Half-day afternoon workshop)"
+   title2: "November 3, 2025"
    image_fullwidth: "Minneapolis2025.jpg"
    logo: "acmsigspatial-logo.jpg"
 ---
@@ -16,13 +16,19 @@ SpatialConnect 2025 is dedicated to exploring cutting-edge research and applicat
 
 **Half-day afternoon mini-conference featuring:**
 
-- **Keynote Talk**: One Invited Distinguished Speaker
-- **Technical Sessions**: Peer-reviewed Paper Presentations  
-- **Awards**: Best Paper Award and Best Community Impact Paper Award
+- **Keynote Talk:** One Invited Distinguished Speaker
+- **Technical Sessions:** Peer-reviewed Paper Presentations  
+- **Awards:** Best Paper Award and Best Community Impact Paper Award
 
 ## Call for Papers
 
-The workshop seeks high-quality papers that have not been published in other academic outlets and are not concurrently under peer review. Papers are limited to 6 pages(excluding references). Submissions that do not follow the page limit requirements will be desk-rejected without technical reviews.
+The workshop seeks high-quality papers that have not been published in other academic outlets and are not concurrently under peer review. 
+
+**CIVIC Statement Papers (2 pages):** These papers should identify specific societal challenges in collaboration with community stakeholders. These concise papers are intended to initiate dialogue around pressing local or regional issues that could benefit from technical or scientific engagement.
+
+**Short Research Papers (4 pages):** These papers should demonstrate a clear understanding of community challenges, describe partnerships with community organizations or stakeholders, review existing methods, and outline a proposed solution or approach. These papers are ideal for early-stage projects or pilots that are grounded in community needs.
+
+**Long Research Papers (8–10 pages):** These papers are expected to present well-defined community challenges alongside novel, actionable solutions. Submissions should detail collaborations with community partners and include either results from real-world deployments or a clear plan for implementation. Authors should also report on findings, lessons learned, and the broader implications of their work.
 
 Once accepted, at least one author is required to register for the workshop and the ACM SIGSPATIAL conference, as well as attend the workshop to present the accepted work which will then appear in the ACM Digital Library. As SpatialConnect papers appear in the ACM SIGSPATIAL proceedings we follow the same submission process.
 
