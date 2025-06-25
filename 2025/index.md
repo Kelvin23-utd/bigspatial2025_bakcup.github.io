@@ -14,7 +14,8 @@ SpatialConnect 2025 is dedicated to exploring cutting-edge research and applicat
 
 ## Workshop Format
 
-**Half-day afternoon mini-conference featuring:**
+<!-- **Half-day afternoon mini-conference featuring:** -->
+**Half-day mini-conference featuring:**
 
 - **Keynote Talk:** One Invited Distinguished Speaker
 - **Technical Sessions:** Peer-reviewed Paper Presentations  
